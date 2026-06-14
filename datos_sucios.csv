@@ -1,0 +1,12 @@
+id,nombre,edad,fecha_registro,email,salario
+1, Juan Perez ,30,2023-01-15,juan.perez@email.com,$1500
+2,Maria Gomez,veinticinco,15/02/2023,maria.gomez@email.com, 1800 
+3,Carlos  Soto,45,2023-03-10,carlos.soto@email.com,"$2,200"
+,Ana Ruiz,32,2023/04/05,ana.ruiz@email,1950.5
+2,Maria Gomez,25,15/02/2023,maria.gomez@email.com,1800
+5, Luis Fernandez,-5,10-05-2023,luis.fernandez@email.com,N/A
+6,Pedro Pascal,120,2023-06-20,pedro.pascal@email.com,$3000
+7,Sofia Loren,38,,sofia.loren@email.com,2500
+8,Jorge Valdivia,40,2023-08-12,jorge.valdiviaemail.com,$2800
+9, Lucia Mendez ,33,2023-09-01,lucia.mendez@email.com,$3100
+9, Lucia Mendez ,33,2023-09-01,lucia.mendez@email.com,$3100

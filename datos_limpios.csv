@@ -1,0 +1,10 @@
+id,nombre,edad,fecha_registro,email,salario
+1,Juan Perez,30.0,,juan.perez@email.com,1500.0
+2,Maria Gomez,25.0,,maria.gomez@email.com,1800.0
+3,Carlos Soto,45.0,,carlos.soto@email.com,2200.0
+4,Ana Ruiz,32.0,2023-04-05,,1950.5
+5,Luis Fernandez,,,luis.fernandez@email.com,
+6,Pedro Pascal,,,pedro.pascal@email.com,3000.0
+7,Sofia Loren,38.0,,sofia.loren@email.com,2500.0
+8,Jorge Valdivia,40.0,,,2800.0
+9,Lucia Mendez,33.0,,lucia.mendez@email.com,3100.0
